@@ -1,0 +1,5 @@
+# License
+
+    YEAR: 2017
+    COPYRIGHT HOLDER: Jeroen Ooms, Digital Bazaar, Inc
+    ORGANIZATION: Digital Bazaar, Inc (jsonld.js library)

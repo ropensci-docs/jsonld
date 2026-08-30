@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a7bbe51accac999fab186624104f9969747a25f8",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-10-03T12:53:07Z",
+    "files": 3,
+    "merge": false,
+    "message": "urlchecker\n"
+  },
+  "repo": "https://github.com/ropensci/jsonld",
+  "pkg": "jsonld",
+  "time": "2026-08-30T07:10:53Z"
+}
